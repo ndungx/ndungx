@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm NDungx</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
+[![Social banner for NDungx](https://github.com/ndungx/ndungx/blob/main/NDungx.gif)](https://www.facebook.com/ndungx)
+
 - 🔭 I’m currently working on [React Chat App](https://github.com/ndungx/react-chat-app)
 
 - 🌱 I’m currently learning **Spring Framework, React JS**

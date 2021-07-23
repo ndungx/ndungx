@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Java, HTML, CSS, JS**
 
-- 👯 I’m looking to collaborate on **[TEDxFPTUniversityHCMC](https://facebook.com/TEDxFPTUniversityHCMC)**
-
 - 📫 How to reach me **neodymium.ndungx@gmail.com**
 <p align="left"> <img src="https://img.shields.io/github/followers/ndungx?style=social" alt="ndungx"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndungx&label=Profile%20views&color=0e75b6&style=flat" alt="ndungx" /> </p>
@@ -23,7 +21,7 @@
 <a href="https://linkedin.com/in/ndungx" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndungx" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/ndungx" target="blank">
+<a href="https://stackoverflow.com/users/15776531/ndungx" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ndungx" height="30" width="40" />
 </a>
 <a href="https://fb.com/ndungx" target="blank">

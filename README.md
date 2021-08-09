@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Java, HTML, CSS**
 
+- ✅ [Certificate and achievement](https://github.com/ndungx/Certification)
+
 - 📫 How to reach me **neodymium.ndungx@gmail.com**
 <p align="left"> <img src="https://img.shields.io/github/followers/ndungx?style=social" alt="Github followers of ndungx"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndungx&label=Profile%20views&color=0e75b6&style=flat" alt="Github porfile views of ndungx" /> </p>

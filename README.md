@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm NDungx</h1>
-<h3 align="center">A passionate mobile developer from Vietnam</h3>
+<h3 align="center">A passionate software developer from Vietnam</h3>
 
-[![Social banner of NDungx](https://github.com/ndungx/ndungx/blob/main/images/ndungx-mobile.gif)](https://www.facebook.com/ndungx)
+[![Social banner of NDungx](https://github.com/ndungx/ndungx/blob/main/images/ndungx-software-developer.gif)](https://www.facebook.com/ndungx)
 
-- 🌱 I’m currently learning **Flutter, Android, React JS**
-
-- 💬 Ask me about **Flutter, Dart, ReactJS, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **Flutter, React JS, .NET**
 
 - 📫 How to reach me **neodymium.ndungx@gmail.com**
 

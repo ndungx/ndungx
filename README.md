@@ -3,7 +3,7 @@
 
 [![Social banner of NDungx](https://github.com/ndungx/ndungx/blob/main/images/ndungx-software-developer.gif)](https://www.facebook.com/ndungx)
 
-- 🌱 I’m currently learning **Flutter, React JS, .NET**
+- 🌱 I’m currently learning **Android, Kotlin Flutter, React JS, .NET**
 
 - 📫 How to reach me **neodymium.ndungx@gmail.com**
 

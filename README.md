@@ -127,7 +127,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndungx&show_icons=true&locale=en&layout=compact" alt="ndungx" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndungx&show_icons=true&locale=en&layout=compact&PAT_1" alt="ndungx" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndungx" alt="ndungx" />
